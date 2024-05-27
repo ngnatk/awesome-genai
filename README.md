@@ -73,6 +73,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Amazon Bedrock Agents Quickstart [https://github.com/build-on-aws/amazon-bedrock-agents-quickstart](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart)
 - Amazon Bedrock Retrieval-Augmented Generation (RAG) Workshop [https://github.com/aws-samples/amazon-bedrock-rag-workshop](https://github.com/aws-samples/amazon-bedrock-rag-workshop)
 - Amazon Bedrock Workshop [https://github.com/aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+- Building Generative AI Apps on AWS with CDK [https://catalog.workshops.aws/building-genai-apps/en-US](https://catalog.workshops.aws/building-genai-apps/en-US)
 - Data Science on AWS [https://github.com/aws-samples/data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
 - LLM Ops Workshop - Streamline LLM operations using Amazon SageMaker. [https://github.com/aws-samples/llmops-workshop](https://github.com/aws-samples/llmops-workshop)
 - Txt to SQL Bedrock Workshop [https://github.com/aws-samples/text-to-sql-bedrock-workshop/](https://github.com/aws-samples/text-to-sql-bedrock-workshop/)
