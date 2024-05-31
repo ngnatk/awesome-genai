@@ -59,6 +59,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Amazon Bedrock Serverless Prompt Chaining [https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining)
 - Amazon SageMaker Generative AI [https://github.com/aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai)
 - Amazon Transcribe Post Call Analytics (PCA) [https://github.com/aws-samples/amazon-transcribe-post-call-analytics](https://github.com/aws-samples/amazon-transcribe-post-call-analytics)
+- Aurora PostgreSQL pgvector [https://github.com/aws-samples/aurora-postgresql-pgvector/](https://github.com/aws-samples/aurora-postgresql-pgvector/)
 - AWS LLM Gateway [https://github.com/aws-samples/llm-gateway](https://github.com/aws-samples/llm-gateway)
 - AWS Video Transcriber [https://github.com/awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber)
 - Bedrock Agent txt2sql [https://github.com/build-on-aws/bedrock-agent-txt2sql](https://github.com/build-on-aws/bedrock-agent-txt2sql)
