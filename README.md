@@ -80,6 +80,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Building with Amazon Bedrock and LangChain [https://catalog.us-east-1.prod.workshops.aws/workshops/cdbce152-b193-43df-8099-908ee2d1a6e4/en-US](https://catalog.us-east-1.prod.workshops.aws/workshops/cdbce152-b193-43df-8099-908ee2d1a6e4/en-US)
 - Data Science on AWS [https://github.com/aws-samples/data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
 - LLM Ops Workshop - Streamline LLM operations using Amazon SageMaker. [https://github.com/aws-samples/llmops-workshop](https://github.com/aws-samples/llmops-workshop)
+- Operationalize Generative AI Applications using LLMOps [https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/](https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/)
 - Txt to SQL Bedrock Workshop [https://github.com/aws-samples/text-to-sql-bedrock-workshop/](https://github.com/aws-samples/text-to-sql-bedrock-workshop/)
 
 
