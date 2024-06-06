@@ -27,6 +27,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 ### Chatbot Apps
 
 - [AWS GenAI Chatbot](https://aws-samples.github.io/aws-genai-llm-chatbot/) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere) using AWS CDK on AWS. [https://github.com/aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot)
+- Bedrock Agent Apointment Manager DynamoDB [https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb)
 - Bedrock Agents Streamlit [https://github.com/build-on-aws/bedrock-agents-streamlit](https://github.com/build-on-aws/bedrock-agents-streamlit)
 - Bedrock Claude Chat [https://github.com/aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
 - Bedrock Claude Chatbot [https://github.com/aws-samples/bedrock-claude-chatbot](https://github.com/aws-samples/bedrock-claude-chatbot)
@@ -63,7 +64,6 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Aurora PostgreSQL pgvector [https://github.com/aws-samples/aurora-postgresql-pgvector/](https://github.com/aws-samples/aurora-postgresql-pgvector/)
 - AWS LLM Gateway [https://github.com/aws-samples/llm-gateway](https://github.com/aws-samples/llm-gateway)
 - AWS Video Transcriber [https://github.com/awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber)
-- Bedrock Agent Apointment Manager DynamoDB [https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb)
 - Bedrock Agent txt2sql [https://github.com/build-on-aws/bedrock-agent-txt2sql](https://github.com/build-on-aws/bedrock-agent-txt2sql)
 - Bedrock Knowledgebase Agent Workload IaC [https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation](https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation)
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
