@@ -54,6 +54,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Solutions & Sample Code
 
+- Advanced RAG Router with Amazon Bedrock - [https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock](https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock)
 - Amazon Bedrock Industry Use Cases - [Healthcare Life Sciences](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/healthcare-life-sciences) and [Travel & Hospitality](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/travel-hospitality). [https://github.com/aws-samples/amazon-bedrock-industry-use-cases](https://github.com/aws-samples/amazon-bedrock-industry-use-cases)
 - Amazon Bedrock Samples [https://github.com/aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 - Amazon Bedrock Serverless Prompt Chaining [https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining)
@@ -62,10 +63,12 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Aurora PostgreSQL pgvector [https://github.com/aws-samples/aurora-postgresql-pgvector/](https://github.com/aws-samples/aurora-postgresql-pgvector/)
 - AWS LLM Gateway [https://github.com/aws-samples/llm-gateway](https://github.com/aws-samples/llm-gateway)
 - AWS Video Transcriber [https://github.com/awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber)
+- Bedrock Agent Apointment Manager DynamoDB [https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb)
 - Bedrock Agent txt2sql [https://github.com/build-on-aws/bedrock-agent-txt2sql](https://github.com/build-on-aws/bedrock-agent-txt2sql)
 - Bedrock Knowledgebase Agent Workload IaC [https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation](https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation)
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
+- Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
 - Simplified Corrective RAG [https://github.com/aws-samples/simplified-corrective-rag](https://github.com/aws-samples/simplified-corrective-rag)
