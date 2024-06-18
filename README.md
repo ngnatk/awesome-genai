@@ -33,6 +33,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Bedrock Claude Chatbot [https://github.com/aws-samples/bedrock-claude-chatbot](https://github.com/aws-samples/bedrock-claude-chatbot)
 - Bedrock Claude Coach [https://github.com/aws-samples/bedrock-claude-codecoach](https://github.com/aws-samples/bedrock-claude-codecoach)
 - GenAI Playground Common Design Patterns [https://github.com/aws-samples/genai-playground-common-design-patterns](https://github.com/aws-samples/genai-playground-common-design-patterns)
+- GenAI Chatbot Using Bedrock Agents PoC [github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc](https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc)
 - GenAI Quickstart PoCs [https://github.com/aws-samples/genai-quickstart-pocs](https://github.com/aws-samples/genai-quickstart-pocs)
 - [Generative AI Application Builder on AWS](https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws/) facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included LLMs, such as Amazon Titan, and pre-built connectors for 3rd-party LLMs. [https://github.com/aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws)
 - [Generative AI CDK Constructs](https://awslabs.github.io/generative-ai-cdk-constructs/) - sample implementations of AWS CDK for common generative AI patterns. [https://github.com/awslabs/generative-ai-cdk-constructs/](https://github.com/awslabs/generative-ai-cdk-constructs/). [Youtube](https://www.youtube.com/watch?v=NI1F4Xxqyr8)
@@ -52,6 +53,10 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - RefChecker [https://github.com/amazon-science/RefChecker](https://github.com/amazon-science/RefChecker)
 
 
+### Libraries
+
+- **Rhubarb** - A Python framework for multi-modal document understanding with Amazon Bedrock [github.com/awslabs/rhubarb](https://github.com/awslabs/rhubarb)
+
 
 ### Solutions & Sample Code
 
@@ -70,6 +75,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
 - Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
+- Langchain Embeddings - Building a Multimodal Search Engine for Text and Image with Amazon Titan Embeddings, Amazon Bedrock, Amazon Aurora and LangChain [github.com/build-on-aws/langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
 - Simplified Corrective RAG [https://github.com/aws-samples/simplified-corrective-rag](https://github.com/aws-samples/simplified-corrective-rag)
 - Video Understanding Solution [https://github.com/aws-samples/video-understanding-solution](https://github.com/aws-samples/video-understanding-solution)
