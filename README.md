@@ -37,6 +37,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - GenAI Quickstart PoCs [https://github.com/aws-samples/genai-quickstart-pocs](https://github.com/aws-samples/genai-quickstart-pocs)
 - [Generative AI Application Builder on AWS](https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws/) facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included LLMs, such as Amazon Titan, and pre-built connectors for 3rd-party LLMs. [https://github.com/aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws)
 - [Generative AI CDK Constructs](https://awslabs.github.io/generative-ai-cdk-constructs/) - sample implementations of AWS CDK for common generative AI patterns. [https://github.com/awslabs/generative-ai-cdk-constructs/](https://github.com/awslabs/generative-ai-cdk-constructs/). [Youtube](https://www.youtube.com/watch?v=NI1F4Xxqyr8)
+- Generative AI CDK Constructs Samples [github.com/aws-samples/generative-ai-cdk-constructs-samples/](https://github.com/aws-samples/generative-ai-cdk-constructs-samples/)
 - Generative AI SageMaker CDK Demo [https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
 - PACE GenAI Demos [https://github.com/aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos)
 - Python FM Playground [https://github.com/build-on-aws/python-fm-playground](https://github.com/build-on-aws/python-fm-playground)
@@ -55,12 +56,14 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Libraries
 
+- **Distill CLI** - the Distill CLI uses Amazon Transcribe and Amazon Bedrock to create summaries of your audio recordings (e.g., meetings, podcasts, etc.) directly from the command line. It is based on the open source tool: [Amazon Bedrock Audio Summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer). [github.com/awslabs/distill-cli](https://github.com/awslabs/distill-cli)
 - **Rhubarb** - A Python framework for multi-modal document understanding with Amazon Bedrock [github.com/awslabs/rhubarb](https://github.com/awslabs/rhubarb)
 
 
 ### Solutions & Sample Code
 
 - Advanced RAG Router with Amazon Bedrock - [https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock](https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock)
+- Amazon Bedrock Audio Summarizer. [github.com/aws-samples/amazon-bedrock-audio-summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer)
 - Amazon Bedrock Industry Use Cases - [Healthcare Life Sciences](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/healthcare-life-sciences) and [Travel & Hospitality](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/travel-hospitality). [https://github.com/aws-samples/amazon-bedrock-industry-use-cases](https://github.com/aws-samples/amazon-bedrock-industry-use-cases)
 - Amazon Bedrock Samples [https://github.com/aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 - Amazon Bedrock Serverless Prompt Chaining [https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining)
