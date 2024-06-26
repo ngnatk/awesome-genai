@@ -65,6 +65,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Advanced RAG Router with Amazon Bedrock - [https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock](https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock)
 - Amazon Bedrock Audio Summarizer. [https://github.com/aws-samples/amazon-bedrock-audio-summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer)
 - Amazon Bedrock Industry Use Cases - [Healthcare Life Sciences](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/healthcare-life-sciences) and [Travel & Hospitality](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/travel-hospitality). [https://github.com/aws-samples/amazon-bedrock-industry-use-cases](https://github.com/aws-samples/amazon-bedrock-industry-use-cases)
+- Amazon Bedrock Synthetic Manufacturing Data Generator [github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator](https://github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator)
 - Amazon Bedrock Samples [https://github.com/aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 - Amazon Bedrock Serverless Prompt Chaining [https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining)
 - Amazon SageMaker Generative AI [https://github.com/aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai)
