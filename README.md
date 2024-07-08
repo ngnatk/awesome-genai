@@ -39,6 +39,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - [Generative AI CDK Constructs](https://awslabs.github.io/generative-ai-cdk-constructs/) - sample implementations of AWS CDK for common generative AI patterns. [https://github.com/awslabs/generative-ai-cdk-constructs/](https://github.com/awslabs/generative-ai-cdk-constructs/). [Youtube](https://www.youtube.com/watch?v=NI1F4Xxqyr8)
 - Generative AI CDK Constructs Samples [https://github.com/aws-samples/generative-ai-cdk-constructs-samples/](https://github.com/aws-samples/generative-ai-cdk-constructs-samples/)
 - Generative AI SageMaker CDK Demo [https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
+- Open Artifacts for Bedrock [https://github.com/aws-samples/open_artifacts_for_bedrock](https://github.com/aws-samples/open_artifacts_for_bedrock)
 - PACE GenAI Demos [https://github.com/aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos)
 - Python FM Playground [https://github.com/build-on-aws/python-fm-playground](https://github.com/build-on-aws/python-fm-playground)
 - QnABot on AWS [https://github.com/aws-samples/qnabot-on-aws-plugin-samples](https://github.com/aws-samples/qnabot-on-aws-plugin-samples)
