@@ -82,6 +82,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
 - Langchain Embeddings - Building a Multimodal Search Engine for Text and Image with Amazon Titan Embeddings, Amazon Bedrock, Amazon Aurora and LangChain [github.com/build-on-aws/langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
+- Meta Llama on AWS [https://github.com/aws-samples/Meta-Llama-on-AWS](https://github.com/aws-samples/Meta-Llama-on-AWS)
 - Mistral on AWS [https://github.com/aws-samples/mistral-on-aws/](https://github.com/aws-samples/mistral-on-aws/)
 - Serverless RAG Demo [https://github.com/aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo)
 - Serverless Retrieval Augmented Generation (RAG) on AWS [https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS](https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS)
