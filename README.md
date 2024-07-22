@@ -32,6 +32,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Bedrock Claude Chat [https://github.com/aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
 - Bedrock Claude Chatbot [https://github.com/aws-samples/bedrock-claude-chatbot](https://github.com/aws-samples/bedrock-claude-chatbot)
 - Bedrock Claude Coach [https://github.com/aws-samples/bedrock-claude-codecoach](https://github.com/aws-samples/bedrock-claude-codecoach)
+- Chat with Blockchain Data with Amazon Bedrock [https://github.com/aws-samples/chat-with-blockchain-data-with-amazon-bedrock](https://github.com/aws-samples/chat-with-blockchain-data-with-amazon-bedrock)
 - GenAI Playground Common Design Patterns [https://github.com/aws-samples/genai-playground-common-design-patterns](https://github.com/aws-samples/genai-playground-common-design-patterns)
 - GenAI Chatbot Using Bedrock Agents PoC [https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc](https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc)
 - GenAI Quickstart PoCs [https://github.com/aws-samples/genai-quickstart-pocs](https://github.com/aws-samples/genai-quickstart-pocs)
