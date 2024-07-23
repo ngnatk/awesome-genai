@@ -26,6 +26,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Chatbot Apps
 
+- Artifacts and Tools for Bedrock [https://github.com/aws-samples/artifacts-and-tools-for-bedrock](https://github.com/aws-samples/artifacts-and-tools-for-bedrock)
 - [AWS GenAI Chatbot](https://aws-samples.github.io/aws-genai-llm-chatbot/) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere) using AWS CDK on AWS. [https://github.com/aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot)
 - Bedrock Agent Apointment Manager DynamoDB [https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb)
 - Bedrock Agents Streamlit [https://github.com/build-on-aws/bedrock-agents-streamlit](https://github.com/build-on-aws/bedrock-agents-streamlit)
