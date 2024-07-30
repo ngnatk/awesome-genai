@@ -107,6 +107,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - LLM Ops Workshop - Streamline LLM operations using Amazon SageMaker. [https://github.com/aws-samples/llmops-workshop](https://github.com/aws-samples/llmops-workshop)
 - Operationalize Generative AI Applications using LLMOps [https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/](https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/)
 - Prompt Engineering with Anthropic's Claude 3 [https://catalog.workshops.aws/prompt-eng-claude3/en-US](https://catalog.workshops.aws/prompt-eng-claude3/en-US)
+- SageMaker Inference and Deployment Guardrail Workshop [https://github.com/aws-samples/sagemaker-deployment-guardrail-workshop](https://github.com/aws-samples/sagemaker-deployment-guardrail-workshop)
 - Txt to SQL Bedrock Workshop [https://github.com/aws-samples/text-to-sql-bedrock-workshop/](https://github.com/aws-samples/text-to-sql-bedrock-workshop/)
 
 
