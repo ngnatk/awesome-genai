@@ -88,6 +88,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
 - Meta Llama on AWS [https://github.com/aws-samples/Meta-Llama-on-AWS](https://github.com/aws-samples/Meta-Llama-on-AWS)
 - Mistral on AWS [https://github.com/aws-samples/mistral-on-aws/](https://github.com/aws-samples/mistral-on-aws/)
+- Serverless Patterns [https://github.com/aws-samples/serverless-patterns/](https://github.com/aws-samples/serverless-patterns/) (just the Bedrock and SageMaker folders)
 - Serverless RAG Demo [https://github.com/aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo)
 - Serverless Retrieval Augmented Generation (RAG) on AWS [https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS](https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS)
 - Simplified Corrective RAG [https://github.com/aws-samples/simplified-corrective-rag](https://github.com/aws-samples/simplified-corrective-rag)
