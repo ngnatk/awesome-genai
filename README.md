@@ -6,6 +6,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 - [https://github.com/aws/](https://github.com/aws/)
 - [https://github.com/awslabs/](https://github.com/awslabs/)
+- [https://github.com/aws-ia/](https://github.com/aws-ia/)
 - [https://github.com/aws-samples/](https://github.com/aws-samples/)
 - [https://github.com/aws-solutions/](https://github.com/aws-solutions/)
 - [https://github.com/build-on-aws/](https://github.com/build-on-aws/)
@@ -82,6 +83,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
 - Cohere on AWS [https://github.com/aws-samples/Cohere-on-AWS](https://github.com/aws-samples/Cohere-on-AWS)
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
+- [Gen AI on EKS](https://awslabs.github.io/data-on-eks/docs/gen-ai) [https://github.com/aws-samples/gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks)
 - Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
 - Langchain Embeddings - Building a Multimodal Search Engine for Text and Image with Amazon Titan Embeddings, Amazon Bedrock, Amazon Aurora and LangChain [github.com/build-on-aws/langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
