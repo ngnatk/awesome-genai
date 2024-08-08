@@ -82,6 +82,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Bedrock Knowledgebase Agent Workload IaC [https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation](https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation)
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
 - Cohere on AWS [https://github.com/aws-samples/Cohere-on-AWS](https://github.com/aws-samples/Cohere-on-AWS)
+- Data on EKS [https://github.com/awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - [nvidia-triton-server](https://github.com/awslabs/data-on-eks/tree/main/ai-ml/nvidia-triton-server), [llama2](https://github.com/awslabs/data-on-eks/tree/main/ai-ml/trainium-inferentia/examples/llama2)
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
 - [Gen AI on EKS](https://awslabs.github.io/data-on-eks/docs/gen-ai) [https://github.com/aws-samples/gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks)
 - Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
