@@ -73,6 +73,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Amazon Bedrock Synthetic Manufacturing Data Generator [github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator](https://github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator)
 - Amazon Bedrock Samples [https://github.com/aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 - Amazon Bedrock Serverless Prompt Chaining [https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining)
+- Amazon SageMaker Examples / Generative AI [https://github.com/aws/amazon-sagemaker-examples/tree/default/%20%20%20%20generative_ai](https://github.com/aws/amazon-sagemaker-examples/tree/default/%20%20%20%20generative_ai)
 - Amazon SageMaker Generative AI [https://github.com/aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai)
 - Amazon Transcribe Post Call Analytics (PCA) [https://github.com/aws-samples/amazon-transcribe-post-call-analytics](https://github.com/aws-samples/amazon-transcribe-post-call-analytics)
 - Aurora PostgreSQL pgvector [https://github.com/aws-samples/aurora-postgresql-pgvector/](https://github.com/aws-samples/aurora-postgresql-pgvector/)
