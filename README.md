@@ -43,6 +43,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Generative AI CDK Constructs Samples [https://github.com/aws-samples/generative-ai-cdk-constructs-samples/](https://github.com/aws-samples/generative-ai-cdk-constructs-samples/)
 - Generative AI SageMaker CDK Demo [https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
 - Multi Agent Orchestrator [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
+- Multi Tenant Full Stack Rag Application Demo [https://github.com/aws-samples/multi-tenant-full-stack-rag-application-demo](https://github.com/aws-samples/multi-tenant-full-stack-rag-application-demo)
 - Open Artifacts for Bedrock [https://github.com/aws-samples/open_artifacts_for_bedrock](https://github.com/aws-samples/open_artifacts_for_bedrock)
 - PACE GenAI Demos [https://github.com/aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos)
 - Python FM Playground [https://github.com/build-on-aws/python-fm-playground](https://github.com/build-on-aws/python-fm-playground)
