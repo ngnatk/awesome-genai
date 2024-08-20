@@ -22,6 +22,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
   - [Mistral AI Models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-mistral.html)
   - [Stability.ai Diffusion 1.0 Text2Image](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-diffusion-1-0-text-image.html)
   - [Stability.ai Diffusion 1.0 Image2Image](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-diffusion-1-0-image-image.html)
+- [Prompt engineering guidelines](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Prompt templates and examples for Amazon Bedrock text models](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-templates-and-examples.html)
 
 
@@ -69,6 +70,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 ### Solutions & Sample Code
 
 - Advanced RAG Router with Amazon Bedrock - [https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock](https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock)
+- [Agents for Amazon Bedrock Blueprints](https://awslabs.github.io/agents-for-amazon-bedrock-blueprints/). [https://github.com/awslabs/agents-for-amazon-bedrock-blueprints](https://github.com/awslabs/agents-for-amazon-bedrock-blueprints)
 - Amazon Bedrock Audio Summarizer. [https://github.com/aws-samples/amazon-bedrock-audio-summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer)
 - Amazon Bedrock Industry Use Cases - [Healthcare Life Sciences](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/healthcare-life-sciences) and [Travel & Hospitality](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/travel-hospitality). [https://github.com/aws-samples/amazon-bedrock-industry-use-cases](https://github.com/aws-samples/amazon-bedrock-industry-use-cases)
 - Amazon Bedrock Synthetic Manufacturing Data Generator [github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator](https://github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator)
