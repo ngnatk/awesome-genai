@@ -93,6 +93,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
 - Langchain Embeddings - Building a Multimodal Search Engine for Text and Image with Amazon Titan Embeddings, Amazon Bedrock, Amazon Aurora and LangChain [github.com/build-on-aws/langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
+- LLM Based Advanced Summarization [https://github.com/aws-samples/llm-based-advanced-summarization](https://github.com/aws-samples/llm-based-advanced-summarization)
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
 - Meta Llama on AWS [https://github.com/aws-samples/Meta-Llama-on-AWS](https://github.com/aws-samples/Meta-Llama-on-AWS)
 - Mistral on AWS [https://github.com/aws-samples/mistral-on-aws/](https://github.com/aws-samples/mistral-on-aws/)
