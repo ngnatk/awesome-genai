@@ -98,6 +98,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - LLM Based Advanced Summarization [https://github.com/aws-samples/llm-based-advanced-summarization](https://github.com/aws-samples/llm-based-advanced-summarization)
 - Media Analysis Policy Evaluation Framework [https://github.com/aws-samples/media-analysis-policy-evaluation-framework](https://github.com/aws-samples/media-analysis-policy-evaluation-framework)
 - Meta Llama on AWS [https://github.com/aws-samples/Meta-Llama-on-AWS](https://github.com/aws-samples/Meta-Llama-on-AWS)
+- Metaprompt Generator [https://github.com/aws-samples/anthropic-on-aws/tree/main/metaprompt-generator](https://github.com/aws-samples/anthropic-on-aws/tree/main/metaprompt-generator)
 - Mistral on AWS [https://github.com/aws-samples/mistral-on-aws/](https://github.com/aws-samples/mistral-on-aws/)
 - Multi Agent Orchestrator [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - Prompt Optimisation Evaluation [https://github.com/aws-samples/prompt-optimisation-evaluation](https://github.com/aws-samples/prompt-optimisation-evaluation)
