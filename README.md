@@ -30,6 +30,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 - Artifacts and Tools for Bedrock [https://github.com/aws-samples/artifacts-and-tools-for-bedrock](https://github.com/aws-samples/artifacts-and-tools-for-bedrock)
 - [AWS GenAI Chatbot](https://aws-samples.github.io/aws-genai-llm-chatbot/) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere) using AWS CDK on AWS. [https://github.com/aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot)
+- Bedrock Access Gateway - OpenAI-Compatible RESTful APIs for Amazon Bedrock [https://github.com/aws-samples/bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway)
 - Bedrock Agent Apointment Manager DynamoDB [https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb)
 - Bedrock Agents Streamlit [https://github.com/build-on-aws/bedrock-agents-streamlit](https://github.com/build-on-aws/bedrock-agents-streamlit)
 - Bedrock Claude Chat [https://github.com/aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
@@ -39,6 +40,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Claud Tools Chatbot [https://github.com/aws-samples/anthropic-on-aws/tree/main/claude-tools-chatbot](https://github.com/aws-samples/anthropic-on-aws/tree/main/claude-tools-chatbot)
 - GenAI Playground Common Design Patterns [https://github.com/aws-samples/genai-playground-common-design-patterns](https://github.com/aws-samples/genai-playground-common-design-patterns)
 - GenAI Chatbot Using Bedrock Agents PoC [https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc](https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc)
+- GenAI LLM CPU SageMaker [https://github.com/aws-samples/genai-llm-cpu-sagemaker](https://github.com/aws-samples/genai-llm-cpu-sagemaker)
 - GenAI Quickstart PoCs [https://github.com/aws-samples/genai-quickstart-pocs](https://github.com/aws-samples/genai-quickstart-pocs)
 - [Generative AI Application Builder on AWS](https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws/) facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included LLMs, such as Amazon Titan, and pre-built connectors for 3rd-party LLMs. [https://github.com/aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws)
 - [Generative AI CDK Constructs](https://awslabs.github.io/generative-ai-cdk-constructs/) - sample implementations of AWS CDK for common generative AI patterns. [https://github.com/awslabs/generative-ai-cdk-constructs/](https://github.com/awslabs/generative-ai-cdk-constructs/). [Youtube](https://www.youtube.com/watch?v=NI1F4Xxqyr8)
