@@ -9,6 +9,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - [https://github.com/aws-ia/](https://github.com/aws-ia/)
 - [https://github.com/aws-samples/](https://github.com/aws-samples/)
 - [https://github.com/aws-solutions/](https://github.com/aws-solutions/)
+- [https://github.com/aws-solutions-library-samples/](https://github.com/aws-solutions-library-samples/)
 - [https://github.com/build-on-aws/](https://github.com/build-on-aws/)
 
 
@@ -95,6 +96,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
 - [Gen AI on EKS](https://awslabs.github.io/data-on-eks/docs/gen-ai) [https://github.com/aws-samples/gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks)
 - Generative AI Amazon Bedrock Langchain Agent Example [https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
+- Guidance for Multimodal Data Processing using Amazon Bedrock Data Automation [https://github.com/aws-solutions-library-samples/guidance-for-multimodal-data-processing-using-amazon-bedrock-data-automation/tree/main](https://github.com/aws-solutions-library-samples/guidance-for-multimodal-data-processing-using-amazon-bedrock-data-automation/)
 - Lambda Bedrock Response Streaming [https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming](https://github.com/aws-samples/serverless-patterns/tree/main/lambda-bedrock-response-streaming)
 - Langchain Embeddings - Building a Multimodal Search Engine for Text and Image with Amazon Titan Embeddings, Amazon Bedrock, Amazon Aurora and LangChain [github.com/build-on-aws/langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
 - LLM Based Advanced Summarization [https://github.com/aws-samples/llm-based-advanced-summarization](https://github.com/aws-samples/llm-based-advanced-summarization)
@@ -104,6 +106,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Mistral on AWS [https://github.com/aws-samples/mistral-on-aws/](https://github.com/aws-samples/mistral-on-aws/)
 - Multi Agent Orchestrator [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - Prompt Optimisation Evaluation [https://github.com/aws-samples/prompt-optimisation-evaluation](https://github.com/aws-samples/prompt-optimisation-evaluation)
+- Semantic Search with Amazon OpenSearch [https://github.com/aws-samples/semantic-search-with-amazon-opensearch](https://github.com/aws-samples/semantic-search-with-amazon-opensearch)
 - Serverless GenAI Food Analyzer App [https://github.com/aws-samples/serverless-genai-food-analyzer-app](https://github.com/aws-samples/serverless-genai-food-analyzer-app)
 - Serverless Patterns [https://github.com/aws-samples/serverless-patterns/](https://github.com/aws-samples/serverless-patterns/) (just the Bedrock and SageMaker folders)
 - Serverless RAG Demo [https://github.com/aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo)
