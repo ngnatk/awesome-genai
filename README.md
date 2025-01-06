@@ -118,9 +118,11 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 ### Workshops
 
 - Amazon Bedrock Agents Quickstart [https://github.com/build-on-aws/amazon-bedrock-agents-quickstart](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart)
+- Amazon Bedrock Agents Workshop [https://catalog.workshops.aws/agents-for-amazon-bedrock/en-US](https://catalog.workshops.aws/agents-for-amazon-bedrock/en-US)
 - Amazon Bedrock Retrieval-Augmented Generation (RAG) Workshop [https://github.com/aws-samples/amazon-bedrock-rag-workshop](https://github.com/aws-samples/amazon-bedrock-rag-workshop)
 - Amazon Bedrock Workshop [https://github.com/aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
 - Analyzing Network Flow Logs with Generative AI [https://catalog.workshops.aws/spot-anomalies-flink-lab/en-US](https://catalog.workshops.aws/spot-anomalies-flink-lab/en-US)
+- Building generative AI applications with Amazon Bedrock using agents [https://catalog.us-east-1.prod.workshops.aws/workshops/f8a7a3f8-1603-4b10-95cb-0b471db272d8/en-US](https://catalog.us-east-1.prod.workshops.aws/workshops/f8a7a3f8-1603-4b10-95cb-0b471db272d8/en-US)
 - Building Generative AI Apps on AWS with CDK [https://catalog.workshops.aws/building-genai-apps/en-US](https://catalog.workshops.aws/building-genai-apps/en-US)
 - Building with Amazon Bedrock [https://catalog.workshops.aws/building-with-amazon-bedrock/en-US](https://catalog.workshops.aws/building-with-amazon-bedrock/en-US). [alternate link](https://catalog.us-east-1.prod.workshops.aws/workshops/cdbce152-b193-43df-8099-908ee2d1a6e4/en-US)
 - Data Science on AWS [https://github.com/aws-samples/data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
