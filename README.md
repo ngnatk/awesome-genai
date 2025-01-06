@@ -128,6 +128,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Data Science on AWS [https://github.com/aws-samples/data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
 - [Evaluate LLMs and optimize their applications on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/ab6c96d3-53cf-4730-b0fe-f4762dbbb6eb/en-US) [https://github.com/aws-samples/llm-evaluation-methodology](https://github.com/aws-samples/llm-evaluation-methodology)
 - LLM Ops Workshop - Streamline LLM operations using Amazon SageMaker. [https://github.com/aws-samples/llmops-workshop](https://github.com/aws-samples/llmops-workshop)
+- Meta Llama on AWS [https://github.com/aws-samples/Meta-Llama-on-AWS/tree/main/workshops](https://github.com/aws-samples/Meta-Llama-on-AWS/tree/main/workshops)
 - Operationalize Generative AI Applications using LLMOps [https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/](https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057/en-US/)
 - Prompt Engineering with Anthropic's Claude 3 [https://catalog.workshops.aws/prompt-eng-claude3/en-US](https://catalog.workshops.aws/prompt-eng-claude3/en-US)
 - Prompt Migration: OpenAI to Amazon Bedrock [https://catalog.workshops.aws/openai-to-bedrock-migration/en-US](https://catalog.workshops.aws/openai-to-bedrock-migration/en-US)
