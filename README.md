@@ -75,6 +75,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 - Advanced RAG Router with Amazon Bedrock - [https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock](https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock)
 - [Agents for Amazon Bedrock Blueprints](https://awslabs.github.io/agents-for-amazon-bedrock-blueprints/). [https://github.com/awslabs/agents-for-amazon-bedrock-blueprints](https://github.com/awslabs/agents-for-amazon-bedrock-blueprints)
+- Amazon Bedrock Agent Samples. [https://github.com/awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples)
 - Amazon Bedrock Audio Summarizer. [https://github.com/aws-samples/amazon-bedrock-audio-summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer)
 - Amazon Bedrock Industry Use Cases - [Healthcare Life Sciences](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/healthcare-life-sciences) and [Travel & Hospitality](https://github.com/aws-samples/amazon-bedrock-industry-use-cases/blob/main/travel-hospitality). [https://github.com/aws-samples/amazon-bedrock-industry-use-cases](https://github.com/aws-samples/amazon-bedrock-industry-use-cases)
 - Amazon Bedrock Synthetic Manufacturing Data Generator [github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator](https://github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator)
