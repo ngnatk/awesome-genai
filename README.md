@@ -95,6 +95,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Bedrock Agent txt2sql [https://github.com/build-on-aws/bedrock-agent-txt2sql](https://github.com/build-on-aws/bedrock-agent-txt2sql)
 - Bedrock Knowledgebase Agent Workload IaC [https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation](https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation)
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
+- Bedrock Notebook LM [https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm)
 - Cohere on AWS [https://github.com/aws-samples/Cohere-on-AWS](https://github.com/aws-samples/Cohere-on-AWS)
 - Data on EKS [https://github.com/awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - [nvidia-triton-server](https://github.com/awslabs/data-on-eks/tree/main/ai-ml/nvidia-triton-server), [llama2](https://github.com/awslabs/data-on-eks/tree/main/ai-ml/trainium-inferentia/examples/llama2)
 - Enhanced Document Understanding on AWS [https://github.com/aws-solutions/enhanced-document-understanding-on-aws](https://github.com/aws-solutions/enhanced-document-understanding-on-aws)
