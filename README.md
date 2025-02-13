@@ -50,6 +50,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Live Chat Content Moderation with GenAI on AWS [https://github.com/aws-samples/live-chat-content-moderation-with-genai-on-aws](https://github.com/aws-samples/live-chat-content-moderation-with-genai-on-aws)
 - [Multi Agent Orchestrator](https://awslabs.github.io/multi-agent-orchestrator/) [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - Multi Tenant Full Stack Rag Application Demo [https://github.com/aws-samples/multi-tenant-full-stack-rag-application-demo](https://github.com/aws-samples/multi-tenant-full-stack-rag-application-demo)
+- NLQ GenAI Chatbot for Structured Data [https://github.com/aws-samples/nlq-genai-chatbot-for-structured-data](https://github.com/aws-samples/nlq-genai-chatbot-for-structured-data)
 - Open Artifacts for Bedrock [https://github.com/aws-samples/open_artifacts_for_bedrock](https://github.com/aws-samples/open_artifacts_for_bedrock)
 - PACE GenAI Demos [https://github.com/aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos)
 - Python FM Playground [https://github.com/build-on-aws/python-fm-playground](https://github.com/build-on-aws/python-fm-playground)
