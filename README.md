@@ -4,6 +4,7 @@
 
 This is intended to be a community-curated list of GenAI demos & code samples located in the following Github repositories
 
+- [https://github.com/amazon-science/](https://github.com/amazon-science/)
 - [https://github.com/aws/](https://github.com/aws/)
 - [https://github.com/awslabs/](https://github.com/awslabs/)
 - [https://github.com/aws-ia/](https://github.com/aws-ia/)
@@ -60,6 +61,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 ### Benchmarking & Evaluation
 
 - [Agent Evaluation](https://awslabs.github.io/agent-evaluation/). [https://github.com/awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation)
+- Auto RAG Eval [https://github.com/amazon-science/auto-rag-eval](https://github.com/amazon-science/auto-rag-eval)
 - [FM Bench](https://aws-samples.github.io/foundation-model-benchmarking-tool/) - Benchmark any Foundation Model (FM) on any AWS service [Amazon SageMaker, Amazon Bedrock, Amazon EKS, Bring your own endpoint etc.]. [https://github.com/aws-samples/foundation-model-benchmarking-tool](https://github.com/aws-samples/foundation-model-benchmarking-tool). <a href="https://pypi.org/project/fmbench/" target="_blank"><img src="https://img.shields.io/pypi/v/fmbench.svg" alt="PyPI Version"></a>
 - [FM Eval](https://aws.github.io/fmeval/fmeval.html). [https://github.com/aws/fmeval/](https://github.com/aws/fmeval/)
 - FM Evaluation at Scale [https://github.com/aws-samples/fm-evaluation-at-scale](https://github.com/aws-samples/fm-evaluation-at-scale)
