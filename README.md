@@ -97,6 +97,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - AWSome Inference [https://github.com/aws-samples/awsome-inference/](https://github.com/aws-samples/awsome-inference/)
 - Bedrock Agent txt2sql [https://github.com/build-on-aws/bedrock-agent-txt2sql](https://github.com/build-on-aws/bedrock-agent-txt2sql)
 - Bedrock Agents for EKS [https://github.com/aws-samples/bedrock-agents-for-eks](https://github.com/aws-samples/bedrock-agents-for-eks)
+- Bedrock Engineer [https://github.com/aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer)
 - Bedrock Knowledgebase Agent Workload IaC [https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation](https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation)
 - Bedrock Mistral prompting examples [https://github.com/aws-samples/bedrock-mistral-prompting-examples](https://github.com/aws-samples/bedrock-mistral-prompting-examples)
 - Bedrock Notebook LM [https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm)
