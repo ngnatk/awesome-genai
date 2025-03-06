@@ -16,7 +16,8 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Documentation
 
-- [Single prompt inference](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-invoke.html)
+- [Bedrock Converse API Examples](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference-examples.html) (text, image, document, streaming, and video)
+- [Bedrock Cross Region Inference Profile IDs](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-support.html)
 - [Model inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
   - [Anthropic Claude Messages API](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-claude.html)
   - [Cohere Embed Models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-embed.html)
