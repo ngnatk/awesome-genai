@@ -118,6 +118,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Multi Agent Orchestrator [https://github.com/awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - Prompt Optimisation Evaluation [https://github.com/aws-samples/prompt-optimisation-evaluation](https://github.com/aws-samples/prompt-optimisation-evaluation)
 - SageMaker GenAI hosting examples [https://github.com/aws-samples/sagemaker-genai-hosting-examples/](https://github.com/aws-samples/sagemaker-genai-hosting-examples/)
+- Sample Bedrock Deep Researcher [https://github.com/aws-samples/sample-bedrock-deep-researcher](https://github.com/aws-samples/sample-bedrock-deep-researcher)
 - Semantic Search with Amazon OpenSearch [https://github.com/aws-samples/semantic-search-with-amazon-opensearch](https://github.com/aws-samples/semantic-search-with-amazon-opensearch)
 - Serverless GenAI Food Analyzer App [https://github.com/aws-samples/serverless-genai-food-analyzer-app](https://github.com/aws-samples/serverless-genai-food-analyzer-app)
 - Serverless Patterns [https://github.com/aws-samples/serverless-patterns/](https://github.com/aws-samples/serverless-patterns/) (just the Bedrock and SageMaker folders)
