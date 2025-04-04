@@ -57,6 +57,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - PACE GenAI Demos [https://github.com/aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos)
 - Python FM Playground [https://github.com/build-on-aws/python-fm-playground](https://github.com/build-on-aws/python-fm-playground)
 - QnABot on AWS [https://github.com/aws-samples/qnabot-on-aws-plugin-samples](https://github.com/aws-samples/qnabot-on-aws-plugin-samples)
+- Serverless PDF Chat [https://github.com/aws-samples/serverless-pdf-chat](https://github.com/aws-samples/serverless-pdf-chat)
 - Stream AI assistant using Bedrock Converse with tools [https://github.com/aws-samples/stream-ai-assistant-using-bedrock-converse-with-tools](https://github.com/aws-samples/stream-ai-assistant-using-bedrock-converse-with-tools)
 
 ### Benchmarking & Evaluation
