@@ -131,6 +131,12 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Well Architected IaC Analyzer [https://github.com/aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer)
 
 
+### NotebookLM
+
+- Bedrock Notebook LM (Nova) [https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm)
+- Bedrocck Notebook LM (EKS) [https://github.com/aws-samples/genai-ml-platform-examples/tree/main/infrastructure/notebooklm-with-bedrock-and-amazon-eks](https://github.com/aws-samples/genai-ml-platform-examples/tree/main/infrastructure/notebooklm-with-bedrock-and-amazon-eks)
+
+
 ### Workshops
 
 - Amazon Bedrock Agents Quickstart [https://github.com/build-on-aws/amazon-bedrock-agents-quickstart](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart)
