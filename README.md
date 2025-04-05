@@ -128,6 +128,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Serverless Retrieval Augmented Generation (RAG) on AWS [https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS](https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS)
 - Simplified Corrective RAG [https://github.com/aws-samples/simplified-corrective-rag](https://github.com/aws-samples/simplified-corrective-rag)
 - Video Understanding Solution [https://github.com/aws-samples/video-understanding-solution](https://github.com/aws-samples/video-understanding-solution)
+- Well Architected IaC Analyzer [https://github.com/aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer)
 
 
 ### Workshops
