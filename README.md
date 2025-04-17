@@ -31,6 +31,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Chatbot Apps
 
+- Amazon Bedrock Client for Mac [https://github.com/aws-samples/amazon-bedrock-client-for-mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac)
 - Artifacts and Tools for Bedrock [https://github.com/aws-samples/artifacts-and-tools-for-bedrock](https://github.com/aws-samples/artifacts-and-tools-for-bedrock)
 - [AWS GenAI Chatbot](https://aws-samples.github.io/aws-genai-llm-chatbot/) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere) using AWS CDK on AWS. [https://github.com/aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot)
 - Bedrock Access Gateway - OpenAI-Compatible RESTful APIs for Amazon Bedrock [https://github.com/aws-samples/bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway)
@@ -77,6 +78,11 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - **Distill CLI** - the Distill CLI uses Amazon Transcribe and Amazon Bedrock to create summaries of your audio recordings (e.g., meetings, podcasts, etc.) directly from the command line. It is based on the open source tool: [Amazon Bedrock Audio Summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer). [github.com/awslabs/distill-cli](https://github.com/awslabs/distill-cli)
 - **Rhubarb** - A Python framework for multi-modal document understanding with Amazon Bedrock [github.com/awslabs/rhubarb](https://github.com/awslabs/rhubarb)
 
+### Agents - Model Context Protocol
+
+- [AWS MCP Servers](https://awslabs.github.io/mcp/) [https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
+- Log analyzer with MCP [https://github.com/awslabs/Log-Analyzer-with-MCP](https://github.com/awslabs/Log-Analyzer-with-MCP)
+- Sample Agents with Nova Act and MCP [https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp](https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp)
 
 ### Solutions & Sample Code
 
