@@ -84,6 +84,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Log analyzer with MCP [https://github.com/awslabs/Log-Analyzer-with-MCP](https://github.com/awslabs/Log-Analyzer-with-MCP)
 - Run model context protocol servers with AWS Lambda [https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda](https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda)
 - Sample Agents with Nova Act and MCP [https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp](https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp)
+- Sample Model Context Protocol Demos [https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos)
 
 ### Solutions & Sample Code
 
