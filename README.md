@@ -78,10 +78,12 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - **Distill CLI** - the Distill CLI uses Amazon Transcribe and Amazon Bedrock to create summaries of your audio recordings (e.g., meetings, podcasts, etc.) directly from the command line. It is based on the open source tool: [Amazon Bedrock Audio Summarizer](https://github.com/aws-samples/amazon-bedrock-audio-summarizer). [github.com/awslabs/distill-cli](https://github.com/awslabs/distill-cli)
 - **Rhubarb** - A Python framework for multi-modal document understanding with Amazon Bedrock [github.com/awslabs/rhubarb](https://github.com/awslabs/rhubarb)
 
-### Agents - Model Context Protocol
+### Agents - Model Context Protocol - Nova Act
 
+- [Agent Squad](https://awslabs.github.io/agent-squad/) [https://github.com/awslabs/agent-squad](https://github.com/awslabs/agent-squad)
 - [AWS MCP Servers](https://awslabs.github.io/mcp/) [https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
 - Log analyzer with MCP [https://github.com/awslabs/Log-Analyzer-with-MCP](https://github.com/awslabs/Log-Analyzer-with-MCP)
+- Nova Act [https://github.com/aws/nova-act](https://github.com/aws/nova-act)
 - Run model context protocol servers with AWS Lambda [https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda](https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda)
 - Sample Agents with Nova Act and MCP [https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp](https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp)
 - Sample Model Context Protocol Demos [https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos)
