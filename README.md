@@ -81,6 +81,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 ### Agents - Model Context Protocol - Nova Act
 
 - [Agent Squad](https://awslabs.github.io/agent-squad/) [https://github.com/awslabs/agent-squad](https://github.com/awslabs/agent-squad)
+- API Gateway AI Agents [https://github.com/aws-samples/serverless-samples/tree/main/apigw-ai-agents](https://github.com/aws-samples/serverless-samples/tree/main/apigw-ai-agents)
 - [AWS MCP Servers](https://awslabs.github.io/mcp/) [https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
 - Log analyzer with MCP [https://github.com/awslabs/Log-Analyzer-with-MCP](https://github.com/awslabs/Log-Analyzer-with-MCP)
 - Nova Act [https://github.com/aws/nova-act](https://github.com/aws/nova-act)
