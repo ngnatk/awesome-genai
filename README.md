@@ -12,6 +12,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - [https://github.com/aws-solutions/](https://github.com/aws-solutions/)
 - [https://github.com/aws-solutions-library-samples/](https://github.com/aws-solutions-library-samples/)
 - [https://github.com/build-on-aws/](https://github.com/build-on-aws/)
+- [https://github.com/strands-agents](https://github.com/strands-agents)
 
 
 ### Documentation
@@ -89,6 +90,15 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Sample Agents with Nova Act and MCP [https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp](https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp)
 - Sample Serverless MCP Servers [https://github.com/aws-samples/sample-serverless-mcp-servers](https://github.com/aws-samples/sample-serverless-mcp-servers)
 - Sample Model Context Protocol Demos [https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos)
+
+### Agents - Strands SDK
+
+- Agent Builder [https://github.com/strands-agents/agent-builder](https://github.com/strands-agents/agent-builder)
+- Docs [https://github.com/strands-agents/docs](https://github.com/strands-agents/docs)
+- MCP Server [https://github.com/strands-agents/mcp-server](https://github.com/strands-agents/mcp-server)
+- Samples [https://github.com/strands-agents/samples](https://github.com/strands-agents/samples)
+- SDK Python [https://github.com/strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
+- Tools [https://github.com/strands-agents/tools](https://github.com/strands-agents/tools)
 
 ### Solutions & Sample Code
 
