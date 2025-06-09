@@ -61,6 +61,8 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - QnABot on AWS [https://github.com/aws-samples/qnabot-on-aws-plugin-samples](https://github.com/aws-samples/qnabot-on-aws-plugin-samples)
 - Serverless PDF Chat [https://github.com/aws-samples/serverless-pdf-chat](https://github.com/aws-samples/serverless-pdf-chat)
 - Stream AI assistant using Bedrock Converse with tools [https://github.com/aws-samples/stream-ai-assistant-using-bedrock-converse-with-tools](https://github.com/aws-samples/stream-ai-assistant-using-bedrock-converse-with-tools)
+- Streamlit demo [https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/agents_ux/streamlit_demo](https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/agents_ux/streamlit_demo)
+
 
 ### Benchmarking & Evaluation
 
