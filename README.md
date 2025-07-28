@@ -95,12 +95,19 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 
 ### Agents - Strands SDK
 
+- Strands Agent [https://github.com/strands-agents](https://github.com/strands-agents)
 - Agent Builder [https://github.com/strands-agents/agent-builder](https://github.com/strands-agents/agent-builder)
 - Docs [https://github.com/strands-agents/docs](https://github.com/strands-agents/docs)
 - MCP Server [https://github.com/strands-agents/mcp-server](https://github.com/strands-agents/mcp-server)
 - Samples [https://github.com/strands-agents/samples](https://github.com/strands-agents/samples)
 - SDK Python [https://github.com/strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 - Tools [https://github.com/strands-agents/tools](https://github.com/strands-agents/tools)
+
+### Agents - Amazon Bedrock AgentCore
+
+- Amazon Bedrock AgentCore Samples [https://github.com/awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
+- Amazon Bedrock AgentCore SDK Python [https://github.com/aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
+- Amazon Bedrock AgentCore Starter Toolkit [https://github.com/aws/bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
 
 ### Solutions & Sample Code
 
