@@ -162,6 +162,10 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Video Understanding Solution [https://github.com/aws-samples/video-understanding-solution](https://github.com/aws-samples/video-understanding-solution)
 - Well Architected IaC Analyzer [https://github.com/aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer)
 
+### Images & Video
+
+- All things Bedrock Nova Models [https://github.com/aws-samples/allthings-bedrock-nova-models](https://github.com/aws-samples/allthings-bedrock-nova-models)
+- Amazon Nova Samples [https://github.com/aws-samples/amazon-nova-samples](https://github.com/aws-samples/amazon-nova-samples)
 
 ### NotebookLM
 
