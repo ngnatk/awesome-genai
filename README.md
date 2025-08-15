@@ -12,6 +12,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - [https://github.com/aws-solutions/](https://github.com/aws-solutions/)
 - [https://github.com/aws-solutions-library-samples/](https://github.com/aws-solutions-library-samples/)
 - [https://github.com/build-on-aws/](https://github.com/build-on-aws/)
+- [https://github.com/kirodotdev](https://github.com/kirodotdev)
 - [https://github.com/strands-agents](https://github.com/strands-agents)
 
 
@@ -108,6 +109,11 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - Amazon Bedrock AgentCore Samples [https://github.com/awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 - Amazon Bedrock AgentCore SDK Python [https://github.com/aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
 - Amazon Bedrock AgentCore Starter Toolkit [https://github.com/aws/bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+
+### Kiro
+
+- [Kiro](https://github.com/kirodotdev/Kiro)
+- [spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro)
 
 ### Solutions & Sample Code
 
