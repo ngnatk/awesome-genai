@@ -89,6 +89,7 @@ This is intended to be a community-curated list of GenAI demos & code samples lo
 - [AWS MCP Servers](https://awslabs.github.io/mcp/) [https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
 - Log analyzer with MCP [https://github.com/awslabs/Log-Analyzer-with-MCP](https://github.com/awslabs/Log-Analyzer-with-MCP)
 - Nova Act [https://github.com/aws/nova-act](https://github.com/aws/nova-act)
+- Nova Act Extension [https://github.com/aws/nova-act-extension](https://github.com/aws/nova-act-extension)
 - Run model context protocol servers with AWS Lambda [https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda](https://github.com/awslabs/run-model-context-protocol-servers-with-aws-lambda)
 - Sample Agents with Nova Act and MCP [https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp](https://github.com/aws-samples/sample-agents-with-nova-act-and-mcp)
 - Sample Serverless MCP Servers [https://github.com/aws-samples/sample-serverless-mcp-servers](https://github.com/aws-samples/sample-serverless-mcp-servers)
